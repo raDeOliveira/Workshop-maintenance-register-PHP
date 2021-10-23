@@ -9,6 +9,7 @@ Simple project that simulates consumables records and stock from the company.
 * client filter search;
 * product filter search;
 * fetch interventions;
+* add custom notes;
 
 # Run the app
 
