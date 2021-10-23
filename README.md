@@ -8,4 +8,9 @@ Simple project that simulates consumables records and stock from the company.
 * register consumables;
 * client filter search;
 * product filter search;
-* 
+* fetch interventions;
+
+# Run the app
+
+Just locate app in htdocs folder from XAMPP and run the browser.
+Don't forget to change config specs from DB.
